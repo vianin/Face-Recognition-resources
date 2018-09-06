@@ -6,6 +6,14 @@
 
 [Open Face: Free and open source face recognition with deep neural networks](http://cmusatyalab.github.io/openface/)
 
+[David Sandberg's facenet](https://github.com/davidsandberg/facenet)
+
+[Davis King's dlib-models](https://github.com/davisking/dlib-models)
+
+## Tutorials
+
+[Face recognition with OpenCV, Python, and deep learning](https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/)
+
 ## Datasets
 
 [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
