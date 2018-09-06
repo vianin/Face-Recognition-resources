@@ -14,7 +14,7 @@
 
 ## Libraries
 
-[Adam Geitgey's face-recognition](https://github.com/ageitgey/face_recognition)
+[Adam Geitgey's face_recognition](https://github.com/ageitgey/face_recognition)
 
 [Open Face: Free and open source face recognition with deep neural networks](http://cmusatyalab.github.io/openface/)
 
