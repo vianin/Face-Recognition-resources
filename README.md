@@ -8,6 +8,10 @@
 
 ## Blogs
 
+[Modern Face Recognition with Deep Learning (Adam Geitgey)](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+
+[High Quality Face Recognition with Deep Metric Learning (Davis King)](http://blog.dlib.net/2017/02/high-quality-face-recognition-with-deep.html)
+
 ## Libraries
 
 [Adam Geitgey's face-recognition](https://github.com/ageitgey/face_recognition)
